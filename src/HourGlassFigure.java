@@ -33,7 +33,7 @@ public class HourGlassFigure {
 				}
 				System.out.println();
 			}
-			//second loop for second part
+			//second loop for bottom part
 			int m = hour/2+hour%2;
 			for (i=1; i<m; i++) {
 				for (j=0; j<m-1-i; j++) {
